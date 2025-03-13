@@ -1,2 +1,1 @@
-dustynv/nano_llm:r36.4.0
---platform=linux/arm64/v8
+--platform=linux/arm64/v8 dustynv/nano_llm:r36.4.0
